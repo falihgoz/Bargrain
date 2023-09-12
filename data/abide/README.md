@@ -10,7 +10,7 @@
 python fetch_data.py
 ```
 
-- Once files are generated in .\data\abide, run this command:
+- Once files are generated in ``.\data\abide``, run this command:
 
 ```
 python preprocess_data.py abide
