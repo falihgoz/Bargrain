@@ -1,8 +1,8 @@
 ## ABIDE
 
 ### This folder should contain:
-- .\ABIDE_pcp
-- Phenotypic_V1_0b_preprocessed1.csv
+- ``.\ABIDE_pcp``
+- ``Phenotypic_V1_0b_preprocessed1.csv``
 
 ### To get the data:
 - Run this command:
