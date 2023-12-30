@@ -27,5 +27,12 @@ python main.py --dataset <dataset>
 # Citation
 
 ```
-TBD
+@inproceedings{febrinanto2023balanced,
+  title={Balanced Graph Structure Information for Brain Disease Detection},
+  author={Febrinanto, Falih Gozi and Liu, Mujie and Xia, Feng},
+  booktitle={Pacific Rim Knowledge Acquisition Workshop},
+  pages={134--143},
+  year={2023},
+  organization={Springer}
+}
 ```
