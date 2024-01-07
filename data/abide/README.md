@@ -16,7 +16,7 @@ python fetch_data.py
 python preprocess_data.py abide
 ```
 
-### Referece:
+### Reference:
 
 ```bibtex
 @article{di2014autism,
